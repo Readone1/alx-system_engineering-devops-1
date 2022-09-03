@@ -1,1 +1,1 @@
-the contents list of your current directory.
+current directory contents.
